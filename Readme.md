@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-thakare-61621b253/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" />
 </a>
 
 <a href="https://t.me/PriyanshuThakare">
