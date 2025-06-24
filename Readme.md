@@ -51,8 +51,8 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 <hr/>
 
 
-![Priyanshu's github stats](https://github-readme-stats-sigma-bice-75.vercel.app/api?username=priyanshuthakre&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats-sigma-bice-75.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
-[![Readme Card](github-readme-stats-sigma-bice-75.vercel.app/api/pin/?username=priyanshuthakare&repo=github-readme-stats)](https://github.com/priyanshuthakre/github-readme-stats)
+![Priyanshu's github stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakre&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
+[![Readme Card](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/pin/?username=priyanshuthakare&repo=github-readme-stats)](https://github.com/priyanshuthakre/github-readme-stats)
 
 ⭐️ From [Priyanshu-Thakare](https://github.com/AnshulThakare)
