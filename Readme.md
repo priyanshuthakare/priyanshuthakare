@@ -30,8 +30,6 @@ My tech journey has been enriched by hands-on experiences, including a virtual i
 With a keen interest in evolving tech trends and a commitment to continuous learning, I aim to drive impactful projects and contribute meaningfully to the tech community.
 </p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -51,5 +49,9 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 <hr/>
+
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=priyanshuthakre&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshuthakare&repo=github-readme-stats)](https://github.com/priyanshuthakre/github-readme-stats)
 
 ⭐️ From [Priyanshu-Thakare](https://github.com/AnshulThakare)
