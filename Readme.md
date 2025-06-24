@@ -3,19 +3,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-thakare-61621b253/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" />
+  <img align="left" alt="Priyanshu's Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=IXUU4h36YfmO&format=png&color=000000" />
 </a>
 
 <a href="https://t.me/PriyanshuThakare">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000" />
+  <img align="left" alt="Priyanshu's Telegram" width="22px" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" />
 </a>
 
 <a href="https://x.com/PriyanshuT19859">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
+  <img align="left" alt="Priyanshu Thakare | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" />
 </a>
 
 <a href="mailto:priyanshuthakare14@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
+  <img align="left" alt="Priyanshu's Email" width="22px" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" />
 </a>
 
 
