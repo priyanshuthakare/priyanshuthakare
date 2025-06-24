@@ -7,15 +7,15 @@
 </a>
 
 <a href="https://t.me/PriyanshuThakare">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000" />
 </a>
 
 <a href="https://x.com/PriyanshuT19859">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
 </a>
 
 <a href="mailto:priyanshuthakare14@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Aman's Email" width="22px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
 </a>
 
 
