@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Priyanshu 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=2000&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+Priyanshu+Thakare;AI+and+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
