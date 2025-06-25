@@ -51,5 +51,6 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 ![Top Langs](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
 <hr/>
 
+![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ⭐️ From [Priyanshu-Thakare](https://github.com/AnshulThakare)
