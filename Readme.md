@@ -1,6 +1,5 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&vCenter=true&width=435&lines=Hello+There!;I'm+Priyanshu+Thakare;AI+and+Machine+Learning+Engineer)](https://git.io/typing-svg)
-</div>
+
 
 <br/>
 
@@ -53,6 +52,7 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 ![Top Langs](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
 <hr/>
 
-![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakare&show_icons=true&theme=transparent)
 
-⭐️ From [Priyanshu-Thakare](https://github.com/AnshulThakare)
+
+⭐️ From [Priyanshu-Thakare](https://github.com/priyanshuthakare)
