@@ -50,9 +50,10 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ![Top Langs](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
-<hr/>
 
-![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakare&show_icons=true&theme=transparent)
+### Github Stats
+
+![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakare&show_icons=true&theme=dark)
 
 
 ⭐️ From [Priyanshu-Thakare](https://github.com/priyanshuthakare)
