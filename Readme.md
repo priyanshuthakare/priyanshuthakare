@@ -24,11 +24,11 @@
 <br/>
 
 <p>
-As a second-year BTech student at PRMITR, I’m passionate about blending technology and innovation. I contribute to the Entrepreneurship Cell at PRMITR as a Web and Technical Team Member, where I leverage my skills to support entrepreneurial initiatives.
+As General Secretary and former Marketing Head at E-Cell, PRMIT&R, I am passionate about driving innovation and fostering entrepreneurial spirit within student communities. My journey in marketing and leadership has equipped me with hands-on experience in team management, event coordination, and digital outreach, enabling me to connect with a network of over 500 professionals and peers.
 <br/>
-My tech journey has been enriched by hands-on experiences, including a virtual internship in Artificial Intelligence and Machine Learning with Google, where I honed my skills in AI/ML technologies. Presently, I’m enhancing my expertise as a Python Programming Intern at Oasis Infobyte, diving deep into coding and real-world applications.
+I have a strong foundation in technology and analytics, evidenced by certifications in Python, AI, Data Analytics, Cloud Computing, and Cybersecurity from leading organizations such as HackerRank, NVIDIA, Forage, NPTEL, and Cisco. My ability to blend technical skills with strategic marketing has allowed me to contribute to impactful projects and achieve notable recognition, including securing the 37th rank among 4,800 teams as a finalist at NEC’24, hosted by E-Cell, IIT Bombay.
 <br/>
-With a keen interest in evolving tech trends and a commitment to continuous learning, I aim to drive impactful projects and contribute meaningfully to the tech community.
+Currently, I am focused on expanding my expertise in leadership, data-driven decision-making, and cross-functional collaboration. I am motivated by challenges that push me to learn and grow, and I thrive in environments that value creativity, perseverance, and continuous improvement. My goal is to leverage my skills to make a meaningful impact in both the tech and entrepreneurial ecosystems.
 </p>
 
 ### 🛠️ Languages and Tools:
@@ -51,7 +51,7 @@ With a keen interest in evolving tech trends and a commitment to continuous lear
 
 ![Top Langs](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api/top-langs/?username=priyanshuthakare&layout=compact&theme=dark&hide_border=true)
 
-### Github Stats
+### 📶 Github Stats
 
 ![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakare&show_icons=true&theme=dark)
 
