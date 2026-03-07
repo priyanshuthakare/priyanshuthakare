@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=62E4F7&center=true&width=435&lines=Hey+there!+I'm+Priyanshu;Full-Stack+Developer;Freelance;Creative+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=62E4F7&center=true&width=435&lines=Hey+there!+I'm+Priyanshu;Full-Stack+Developer;Freelance;Creative+Developer)](https://git.io/typing-svg)
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-thakare-61621b253/">
