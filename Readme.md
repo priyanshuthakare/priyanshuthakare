@@ -55,4 +55,13 @@ Currently, I am focused on expanding my expertise in leadership, data-driven dec
 ![Priyanshu's GitHub stats](https://github-readme-stats-tr5i-git-master-priyanshuthakares-projects.vercel.app/api?username=priyanshuthakare&show_icons=true&theme=dark)
 
 
-⭐️ From [Priyanshu-Thakare](https://github.com/priyanshuthakare)
+
+<div align="center">
+
+✍️ *A random dev quote to close things out:*
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:6a11cb,100:2575fc" width="100%" />
+
+</div>
