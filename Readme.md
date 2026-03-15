@@ -22,11 +22,8 @@
 <br/>
 
 <p>
-As General Secretary and former Marketing Head at E-Cell, PRMIT&R, I am passionate about driving innovation and fostering entrepreneurial spirit within student communities. My journey in marketing and leadership has equipped me with hands-on experience in team management, event coordination, and digital outreach, enabling me to connect with a network of over 500 professionals and peers.
+Hi, I'm Priyanshu Thakare. I'm an entrepreneur and developer building at the intersection of AI, Web3, and automation. I specialize in engineering intelligent, scalable systems that solve real-world problems. I'm passionate about taking ambitious ideas from concept to launch
 <br/>
-I have a strong foundation in technology and analytics, evidenced by certifications in Python, AI, Data Analytics, Cloud Computing, and Cybersecurity from leading organizations such as HackerRank, NVIDIA, Forage, NPTEL, and Cisco. My ability to blend technical skills with strategic marketing has allowed me to contribute to impactful projects and achieve notable recognition, including securing the 37th rank among 4,800 teams as a finalist at NEC’24, hosted by E-Cell, IIT Bombay.
-<br/>
-Currently, I am focused on expanding my expertise in leadership, data-driven decision-making, and cross-functional collaboration. I am motivated by challenges that push me to learn and grow, and I thrive in environments that value creativity, perseverance, and continuous improvement. My goal is to leverage my skills to make a meaningful impact in both the tech and entrepreneurial ecosystems.
 </p>
 
 
