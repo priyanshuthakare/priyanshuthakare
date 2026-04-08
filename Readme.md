@@ -78,6 +78,10 @@ Hi, I'm Priyanshu Thakare. I'm an entrepreneur and developer building at the int
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshuthakare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:6a11cb,100:2575fc" width="100%" />
 
 </div>
