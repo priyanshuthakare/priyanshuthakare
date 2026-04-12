@@ -9,7 +9,7 @@
   <img align="left" alt="Priyanshu's Telegram" width="22px" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" />
 </a>
 
-<a href="https://x.com/PriyanshuT19859">
+<a href="https://x.com/Priyaannsshhu">
   <img align="left" alt="Priyanshu Thakare | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" />
 </a>
 
