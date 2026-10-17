@@ -1,5 +1,5 @@
 # Priyanshu Thakare
-
+ 
 **Developer building at the intersection of AI, automation, and full-stack systems.** I like turning ideas into working products — from AI-powered applications and automation workflows to web experiences and developer tools. 
 
 I work across the stack, but I'm especially interested in the layer where **AI meets real-world software**: intelligent workflows, useful interfaces, APIs, automation, and systems that actually ship.
